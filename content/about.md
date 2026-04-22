@@ -5,8 +5,6 @@ url: "/about/"
 summary: "About me"
 ---
 
-Hi, I'm Adam 👋
+I'm a Senior Software Engineer working in London for the last 10 years, who enjoys building products, backend development and problem solving. This blog is where I write about all aspects of software engineering.
 
-I'm a software engineer who enjoys building things and learning in public. This blog is where I write about engineering, side projects, and whatever else I find interesting.
-
-Feel free to reach out on [GitHub](https://github.com/adamroe).
+Feel free to reach out on [GitHub](https://github.com/01aroe) or [LinkedIn](https://www.linkedin.com/in/adamroe89).
